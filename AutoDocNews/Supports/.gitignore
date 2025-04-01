@@ -1,0 +1,67 @@
+# Xcode
+#
+# Ignore Xcode user settings and derived data
+xcuserdata/
+DerivedData/
+
+# Ignore Xcode specific files
+*.hmap
+
+# Ignore app packaging files
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Ignore Swift Playgrounds files
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+#
+# Ignore build artifacts and package files
+.build/
+.swiftpm/
+
+# If you do not want to track source code of Swift Package Manager dependencies,
+# you can add these as well:
+# Packages/
+# Package.pins
+# Package.resolved
+
+# CocoaPods
+#
+# Pods directory is generally recommended to be excluded from source control.
+# But you can decide whether or not to include it in your project.
+# For more details, visit: https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+# Pods/
+# Podfile.lock
+
+# Carthage
+#
+# Ignore Carthage dependencies' build files and checkouts
+Carthage/Build/
+Carthage/Checkouts/
+
+# fastlane
+#
+# Fastlane generated files (report, preview, screenshots, test output)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# macOS system files
+#
+# Ignore macOS system files that are unnecessary for version control
+.DS_Store
+
+# Log files and temporary files
+#
+# Ignore general logs and temporary files
+*.log
+*.tmp
+
+# Miscellaneous
+#
+# Ignore Xcode workspace files if you don't need them in version control
+# *.xcworkspace
