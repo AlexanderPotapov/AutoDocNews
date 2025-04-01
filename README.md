@@ -89,19 +89,21 @@ https://webapi.autodoc.ru/api/news/1/15
 
 ### Главный экран
 #### Вертикальное отображение
-![Главный экран](Screenshots/main_screen_1.png =250x)
-![Загрузка новой страницы](Screenshots/main_screen_2.png =250x)
-![Загрузка изображений](Screenshots/main_screen_3.png =250x)
+
+<img src="Screenshots/main_screen_1.png" alt="Главный экран" width="250">
+<img src="Screenshots/main_screen_2.png" alt="Загрузка новой страницы" width="250">
+<img src="Screenshots/main_screen_3.png" alt="Загрузка изображений" width="250">
+
 
 #### Горизонтальное отображение
-![Горизонтальное отображение](Screenshots/main_screen_H.png =x250)
+<img src="Screenshots/main_screen_H.png" alt="Горизонтальное отображение" height="250">
 
 ### iPad версия
-![iPad версия 1](Screenshots/ipad_version_1.png =500x)
-![iPad версия 2](Screenshots/ipad_version_2.png =500x)
+<img src="Screenshots/ipad_version_1.png" alt="iPad версия 1" width="500">
+<img src="Screenshots/ipad_version_2.png" alt="iPad версия 2" width="500">
 
 ### Детальный просмотр новости
-![Детальный просмотр](Screenshots/news_detail.png =250x)
+<img src="Screenshots/news_detail.png" alt="Детальный просмотр" width="250">
 
 ## Особенности реализации
 
